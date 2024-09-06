@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Pedro Santos</h1>
 
-- 👨‍💻 Analista de Suporte Júnior.
+- 👨‍💻 Analista de Dados Júnior.
 - ✨ Apaixonado por dados, principalmente linguagem Python e Power BI.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🧠 Sempre buscando conhecimento para evoluir na área de dados.
